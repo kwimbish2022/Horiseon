@@ -8,7 +8,7 @@ Refactor code for Client Horiseon to repair functionality, accessibility, consol
 * CSS
 
 ## Website
-https://kwimbish2022.github.io/KW-Week-1-Challenge-Horiseon/
+https://kwimbish2022.github.io/Horiseon/
 
 ## Contribution
 Made with ❤️ by Kathryn Wimbish
